@@ -1,0 +1,6 @@
+package com.aoricaan.front.aoricaan_front
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
